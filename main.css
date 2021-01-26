@@ -1,20 +1,9 @@
-h1 {color: red;}
-
-.bgimage {
-        /* The image used */
-        background-image: url('https://github.com/LRWright/lrwright.github.io/blob/main/images/space.jpg');
-      
-        /* size */
-        height: 100%;
-        width: 100%;
-      
-        /* Center and scale the image */
-        background-position: center;
-        background-size: cover; 
-        padding-top: 20%;
-        background-repeat: no-repeat;
-
+*{
+        font-family:Montserrat;
+        text-align:center;
 }
+
+h1 {color: red;}
 
 
 
