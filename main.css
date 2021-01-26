@@ -1,9 +1,18 @@
 *{
-        font-family:Montserrat;
+        
+        font-family: 'Monserrat', sans-serif;
         text-align:center;
+        background-color: #0d1117;      
 }
 
-h1 {color: red;}
+body{
+        color: white;
+}
+
+a{
+        color: #55a1f7;
+}
+
 
 
 
